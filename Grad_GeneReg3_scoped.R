@@ -1,8 +1,3 @@
-################################################
-#PUBLISHED AS Grad_GeneReg3
-################################################
-
-
 
 
 # This is a Shiny web application. You can run the application by clicking
